@@ -1,1 +1,1 @@
-# SupplyChainManagmentProject
+# SupplyChainManagment
