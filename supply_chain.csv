@@ -1,0 +1,101 @@
+Product type,SKU,Price,Availability,Number of products sold,Revenue generated,Customer demographics,Stock levels,Lead times,Order quantities,Shipping times,Supplier name,Shipping costs,Shipping carriers,Location,Lead time,Production volumes,Manufacturing lead time,Manufacturing costs,Inspection results,Defect rates,Transportation modes,Routes,Costs
+T-Shirt,SKU0,69.81,55,802,8662,Non-binary,58,7,96,4,Noman Group,2.96,DHL Express,Dhaka,29,215,29,46.28,Pending,0.23,Road,DAC-FRA,187.75
+Pants,SKU1,14.84,95,736,7460.9,Female,53,30,37,2,Bextex Ltd,9.72,DHL Express,Dhaka,23,517,30,33.62,Pending,4.85,Road,DAC-FRA,503.07
+T-Shirt,SKU2,11.32,34,8,9577.75,Unknown,1,10,88,2,Noman Group,8.05,FedEx,Dhaka,12,971,27,30.69,Pending,4.58,Air,CTG-PAR,141.92
+Pants,SKU3,61.16,68,83,7766.84,Non-binary,23,13,59,6,Pacific Jeans,1.73,Hapag-Lloyd,Chattogram,24,937,18,35.62,Fail,4.75,Rail,CTG-SIN-RTM,254.78
+Pants,SKU4,4.81,26,871,2686.51,Non-binary,5,3,56,8,Bextex Ltd,3.89,FedEx,Gazipur,5,414,3,92.07,Fail,3.15,Air,CTG-SIN-RTM,923.44
+T-Shirt,SKU5,1.7,87,147,2828.35,Non-binary,90,27,66,3,Noman Group,4.44,Maersk Line,Bogura,10,104,17,56.77,Fail,2.78,Road,CTG-SIN-RTM,235.46
+Pants,SKU6,4.08,48,65,7823.48,Male,11,15,58,8,Pacific Jeans,3.88,DHL Express,Chattogram,14,314,24,1.09,Pending,1,Sea,CTG-SIN-RTM,134.37
+Jeans,SKU7,42.96,59,426,8496.1,Female,93,17,11,1,Noman Group,2.35,Maersk Line,Bogura,22,564,1,99.47,Fail,0.4,Road,CTG-PAR,802.06
+Jeans,SKU8,68.72,78,150,7517.36,Female,5,10,15,7,Pacific Jeans,3.4,Maersk Line,Dhaka,13,769,8,11.42,Pending,2.71,Sea,DAC-FRA,505.56
+Pants,SKU9,64.02,35,980,4971.15,Unknown,14,27,83,1,Bextex Ltd,7.17,UPS,Narayanganj,29,963,23,47.96,Pending,3.84,Rail,DAC-FRA,995.93
+Pants,SKU10,15.71,11,996,2330.97,Non-binary,51,13,80,2,Pacific Jeans,8.67,Hapag-Lloyd,Chattogram,18,830,5,96.53,Pass,1.73,Road,DAC-FRA,806.1
+Pants,SKU11,90.64,95,960,6099.94,Female,46,23,60,1,Bextex Ltd,4.52,UPS,Chattogram,28,362,11,27.59,Pending,0.02,Air,CTG-SIN-RTM,126.72
+T-Shirt,SKU12,71.21,41,336,2873.74,Unknown,100,30,85,4,Bextex Ltd,1.33,Maersk Line,Chattogram,3,563,3,32.32,Fail,2.16,Road,DAC-FRA,402.97
+Pants,SKU13,16.16,5,249,4052.74,Male,80,8,48,9,Bextex Ltd,9.54,Hapag-Lloyd,Bogura,23,173,10,97.83,Pending,1.63,Road,DAC-FRA,547.24
+Pants,SKU14,99.17,26,562,8653.57,Non-binary,54,29,78,5,Noman Group,2.04,FedEx,Chattogram,25,558,14,5.79,Pending,0.1,Air,DAC-FRA,929.24
+Pants,SKU15,36.99,94,469,5442.09,Non-binary,9,8,69,7,Noman Group,2.42,FedEx,Bogura,14,580,7,97.12,Pass,2.26,Sea,DAC-FRA,127.86
+Pants,SKU16,7.55,74,280,6453.8,Female,2,5,78,1,Noman Group,4.19,FedEx,Bogura,3,399,21,77.11,Pass,1.01,Air,CTG-SIN-RTM,865.53
+Jeans,SKU17,81.46,82,126,2629.4,Female,45,17,85,9,Pacific Jeans,3.59,FedEx,Narayanganj,7,453,16,47.68,Fail,0.1,Air,CTG-PAR,670.93
+T-Shirt,SKU18,36.44,23,620,9364.67,Unknown,10,10,46,8,Pacific Jeans,4.34,UPS,Chattogram,18,374,17,27.11,Pending,2.23,Sea,CTG-SIN-RTM,593.48
+Pants,SKU19,51.12,100,187,2553.5,Unknown,48,11,94,3,Bextex Ltd,4.74,Maersk Line,Narayanganj,20,694,16,82.37,Fail,3.65,Road,CTG-PAR,477.31
+Pants,SKU20,96.34,22,320,8128.03,Unknown,27,12,68,6,Bextex Ltd,8.88,FedEx,Narayanganj,29,309,6,65.69,Pass,4.23,Air,DAC-FRA,493.87
+Jeans,SKU21,84.89,60,601,7087.05,Unknown,69,25,7,6,Noman Group,6.04,Hapag-Lloyd,Narayanganj,19,791,4,61.74,Pending,0.02,Air,CTG-PAR,523.36
+T-Shirt,SKU22,27.68,55,884,2390.81,Unknown,71,1,63,10,Bextex Ltd,9.57,Maersk Line,Chattogram,22,780,28,50.12,Fail,2.59,Rail,CTG-PAR,205.57
+Jeans,SKU23,4.32,30,391,8858.37,Unknown,84,5,29,7,Bextex Ltd,2.92,Hapag-Lloyd,Chattogram,11,568,29,98.61,Pending,1.34,Rail,CTG-SIN-RTM,196.33
+T-Shirt,SKU24,4.16,32,209,9049.08,Male,4,26,2,8,Pacific Jeans,9.74,UPS,Bogura,28,447,3,40.38,Pending,3.69,Air,CTG-SIN-RTM,758.72
+T-Shirt,SKU25,39.63,73,142,2174.78,Male,82,11,52,3,Pacific Jeans,2.23,Maersk Line,Chattogram,19,934,23,78.28,Pending,3.8,Road,DAC-FRA,458.54
+T-Shirt,SKU26,97.45,9,353,3716.49,Male,59,16,48,4,Noman Group,6.51,UPS,Bogura,26,171,4,15.97,Pass,2.12,Rail,CTG-SIN-RTM,617.87
+Jeans,SKU27,92.56,42,352,2686.46,Unknown,47,9,62,8,Pacific Jeans,7.41,Hapag-Lloyd,Dhaka,25,291,4,10.53,Fail,2.86,Sea,DAC-FRA,762.46
+Jeans,SKU28,2.4,12,394,6117.32,Female,48,15,24,4,Noman Group,9.9,FedEx,Dhaka,13,171,7,59.43,Fail,0.82,Air,CTG-SIN-RTM,123.44
+Jeans,SKU29,63.45,3,253,8318.9,Female,45,5,67,7,Noman Group,8.1,FedEx,Chattogram,16,329,7,39.29,Pass,3.88,Road,DAC-FRA,764.94
+T-Shirt,SKU30,8.02,10,327,2766.34,Male,60,26,35,7,Noman Group,8.95,Maersk Line,Chattogram,27,806,30,51.63,Pending,0.97,Road,CTG-PAR,880.08
+Pants,SKU31,50.85,28,168,9655.14,Male,6,17,44,4,Noman Group,2.68,DHL Express,Narayanganj,24,461,8,60.25,Pending,2.99,Rail,CTG-PAR,609.38
+Pants,SKU32,79.21,43,781,9571.55,Unknown,89,13,64,4,Pacific Jeans,6.6,DHL Express,Chattogram,30,737,7,29.69,Pass,1.95,Road,CTG-SIN-RTM,761.17
+Jeans,SKU33,64.8,63,616,5150,Non-binary,4,17,95,9,Pacific Jeans,4.86,Hapag-Lloyd,Narayanganj,1,251,23,23.85,Fail,3.54,Sea,CTG-SIN-RTM,371.26
+Pants,SKU34,37.47,96,602,9061.71,Unknown,1,26,21,7,Bextex Ltd,1.02,FedEx,Narayanganj,4,452,10,10.75,Pass,0.65,Road,DAC-FRA,510.36
+Jeans,SKU35,84.96,11,449,6541.33,Female,42,27,85,8,Pacific Jeans,5.29,FedEx,Gazipur,3,367,2,58,Pass,0.54,Sea,CTG-PAR,553.42
+Pants,SKU36,9.81,34,963,7573.4,Female,18,23,28,3,Noman Group,2.11,UPS,Gazipur,26,671,19,45.53,Fail,3.81,Air,CTG-PAR,403.81
+Pants,SKU37,23.4,5,963,2438.34,Female,25,8,21,9,Bextex Ltd,1.53,DHL Express,Chattogram,24,867,15,34.34,Pending,2.61,Sea,CTG-SIN-RTM,183.93
+Jeans,SKU38,52.08,75,705,9692.32,Non-binary,69,1,88,5,Noman Group,9.24,Hapag-Lloyd,Dhaka,10,841,12,5.93,Pending,0.61,Air,DAC-FRA,339.67
+Pants,SKU39,19.13,26,176,1912.47,Female,78,29,34,3,Bextex Ltd,5.56,UPS,Chattogram,30,791,6,9.01,Fail,1.45,Air,DAC-FRA,653.67
+Pants,SKU40,80.54,97,933,5724.96,Female,90,20,39,8,Pacific Jeans,7.23,FedEx,Chattogram,18,793,1,88.18,Pending,4.21,Road,CTG-SIN-RTM,529.81
+Pants,SKU41,99.11,35,556,5521.21,Female,64,19,38,8,Noman Group,5.77,Maersk Line,Narayanganj,18,892,7,95.33,Fail,0.05,Sea,CTG-SIN-RTM,275.52
+Pants,SKU42,46.53,98,155,1839.61,Female,22,27,57,4,Pacific Jeans,7.53,Hapag-Lloyd,Bogura,26,179,7,96.42,Fail,4.94,Road,CTG-SIN-RTM,635.66
+T-Shirt,SKU43,11.74,6,598,5737.43,Unknown,36,29,85,9,Noman Group,3.69,Hapag-Lloyd,Dhaka,1,206,23,26.28,Pending,0.37,Air,CTG-SIN-RTM,716.04
+Jeans,SKU44,51.36,34,919,7152.29,Female,13,19,72,6,Pacific Jeans,7.58,UPS,Gazipur,7,834,18,22.55,Fail,2.96,Rail,CTG-SIN-RTM,610.45
+T-Shirt,SKU45,33.78,1,24,5267.96,Male,93,7,52,6,Noman Group,5.22,UPS,Narayanganj,25,794,25,66.31,Pass,3.22,Rail,CTG-SIN-RTM,495.31
+T-Shirt,SKU46,27.08,75,859,2556.77,Non-binary,92,29,6,8,Noman Group,4.07,DHL Express,Narayanganj,18,870,23,77.32,Pending,3.65,Road,DAC-FRA,380.44
+Pants,SKU47,95.71,93,910,7089.47,Male,4,15,51,9,Noman Group,8.98,FedEx,Chattogram,10,964,20,19.71,Pending,0.38,Rail,CTG-SIN-RTM,581.6
+T-Shirt,SKU48,76.04,28,29,7397.07,Non-binary,30,16,9,3,Pacific Jeans,7.1,UPS,Dhaka,9,109,18,23.13,Fail,1.7,Rail,DAC-FRA,768.65
+Jeans,SKU49,78.9,19,99,8001.61,Unknown,97,24,9,6,Pacific Jeans,2.51,Hapag-Lloyd,Gazipur,28,177,28,14.15,Pass,2.83,Rail,CTG-SIN-RTM,336.89
+Jeans,SKU50,14.2,91,633,5910.89,Female,31,23,82,10,Bextex Ltd,6.25,UPS,Gazipur,20,306,21,45.18,Fail,4.75,Rail,DAC-FRA,496.25
+T-Shirt,SKU51,26.7,61,154,9866.47,Male,100,4,52,1,Bextex Ltd,4.78,Hapag-Lloyd,Bogura,18,673,28,14.19,Pending,1.77,Road,CTG-SIN-RTM,694.98
+Pants,SKU52,98.03,1,820,9435.76,Male,64,11,11,1,Noman Group,8.63,FedEx,Dhaka,10,727,27,9.17,Pending,2.12,Air,CTG-PAR,602.9
+Pants,SKU53,30.34,93,242,8232.33,Male,96,25,54,3,Noman Group,1.01,FedEx,Gazipur,1,631,17,83.34,Pending,1.41,Air,DAC-FRA,750.74
+T-Shirt,SKU54,31.15,11,622,6088.02,Non-binary,33,22,61,3,Noman Group,4.31,FedEx,Chattogram,26,497,29,30.19,Pass,2.48,Road,DAC-FRA,814.07
+T-Shirt,SKU55,79.86,16,701,2925.68,Male,97,11,11,5,Bextex Ltd,5.01,UPS,Gazipur,27,918,5,30.32,Fail,4.55,Sea,DAC-FRA,323.01
+Pants,SKU56,20.99,90,93,4767.02,Non-binary,25,23,83,5,Pacific Jeans,1.77,FedEx,Dhaka,24,826,28,12.84,Pass,1.17,Air,DAC-FRA,832.21
+T-Shirt,SKU57,49.26,65,227,1605.87,Unknown,5,18,51,1,Noman Group,9.16,UPS,Gazipur,21,588,25,67.78,Pending,2.51,Rail,CTG-SIN-RTM,482.19
+Pants,SKU58,59.84,81,896,2021.15,Non-binary,10,5,44,7,Bextex Ltd,4.94,DHL Express,Gazipur,18,396,7,65.05,Fail,1.73,Road,DAC-FRA,110.36
+Jeans,SKU59,63.83,30,484,1061.62,Non-binary,100,16,26,7,Noman Group,7.29,FedEx,Chattogram,11,176,4,1.9,Fail,0.45,Air,CTG-SIN-RTM,312.57
+Pants,SKU60,17.03,16,380,8864.08,Female,41,27,72,8,Pacific Jeans,4.38,Maersk Line,Dhaka,29,929,24,87.21,Fail,2.85,Rail,CTG-SIN-RTM,430.17
+T-Shirt,SKU61,52.03,23,117,6885.59,Unknown,32,23,36,7,Pacific Jeans,9.03,Maersk Line,Chattogram,14,480,12,78.7,Fail,4.37,Air,CTG-SIN-RTM,164.37
+Jeans,SKU62,72.8,89,270,3899.75,Unknown,86,2,40,7,Pacific Jeans,7.29,UPS,Dhaka,13,751,14,21.05,Pass,1.87,Sea,CTG-PAR,320.85
+Pants,SKU63,13.02,55,246,4256.95,Non-binary,54,19,10,4,Bextex Ltd,2.46,DHL Express,Bogura,18,736,10,20.08,Pending,3.63,Sea,CTG-SIN-RTM,687.29
+Pants,SKU64,89.63,11,134,8458.73,Female,73,27,75,6,Pacific Jeans,4.59,FedEx,Gazipur,17,328,6,8.69,Fail,0.16,Air,CTG-PAR,771.23
+Pants,SKU65,33.7,72,457,8354.58,Male,57,24,54,8,Pacific Jeans,6.58,Hapag-Lloyd,Chattogram,16,358,21,1.6,Fail,4.91,Rail,CTG-PAR,555.86
+Pants,SKU66,26.03,52,704,8367.72,Female,13,17,19,8,Bextex Ltd,2.22,Hapag-Lloyd,Chattogram,24,867,28,42.08,Fail,3.45,Road,CTG-SIN-RTM,393.84
+Pants,SKU67,87.76,16,513,9473.8,Unknown,12,9,71,9,Pacific Jeans,9.15,FedEx,Dhaka,10,198,11,7.06,Pass,0.13,Sea,CTG-PAR,169.27
+T-Shirt,SKU68,37.93,29,163,3550.22,Non-binary,0,8,58,8,Noman Group,1.19,UPS,Bogura,2,375,18,97.11,Fail,1.98,Rail,CTG-SIN-RTM,299.71
+Pants,SKU69,54.87,62,511,1752.38,Non-binary,95,1,27,3,Noman Group,9.71,Maersk Line,Chattogram,9,862,7,77.63,Pending,1.36,Air,CTG-SIN-RTM,207.66
+T-Shirt,SKU70,47.91,90,32,7014.89,Female,10,12,22,4,Noman Group,6.32,FedEx,Bogura,22,775,16,11.44,Pass,1.83,Road,CTG-PAR,183.27
+Jeans,SKU71,6.38,14,637,8180.34,Female,76,2,26,6,Bextex Ltd,9.23,UPS,Bogura,2,258,10,30.66,Pending,2.08,Road,CTG-SIN-RTM,405.17
+Jeans,SKU72,90.2,88,478,2633.12,Non-binary,57,29,77,9,Bextex Ltd,6.6,FedEx,Bogura,21,152,11,55.76,Pending,3.21,Rail,DAC-FRA,677.94
+Jeans,SKU73,83.85,41,375,7910.89,Male,17,25,66,5,Noman Group,1.51,Maersk Line,Narayanganj,13,444,4,46.87,Fail,4.62,Road,CTG-SIN-RTM,866.47
+T-Shirt,SKU74,3.17,64,904,5709.95,Female,41,6,1,5,Bextex Ltd,5.24,Maersk Line,Gazipur,1,919,9,80.58,Fail,0.4,Rail,CTG-SIN-RTM,341.55
+Pants,SKU75,93,29,106,1889.07,Non-binary,16,20,56,10,Pacific Jeans,2.47,FedEx,Narayanganj,25,759,11,48.06,Pass,2.03,Air,CTG-PAR,873.13
+T-Shirt,SKU76,69.11,23,241,5328.38,Male,38,1,22,10,Bextex Ltd,7.05,UPS,Bogura,25,985,24,64.32,Pending,2.18,Rail,CTG-SIN-RTM,997.41
+T-Shirt,SKU77,57.45,14,359,2483.76,Unknown,96,28,57,4,Noman Group,6.78,FedEx,Chattogram,26,334,5,42.95,Pass,3.06,Road,DAC-FRA,852.57
+T-Shirt,SKU78,6.31,50,946,1292.46,Unknown,5,4,51,5,Noman Group,8.47,Hapag-Lloyd,Dhaka,25,858,21,71.13,Pending,4.1,Sea,CTG-PAR,323.59
+T-Shirt,SKU79,57.06,56,198,7888.72,Non-binary,31,25,20,1,Noman Group,6.5,DHL Express,Bogura,5,228,12,57.87,Pending,0.17,Air,CTG-PAR,351.5
+Pants,SKU80,91.13,75,872,8651.67,Unknown,39,14,41,2,Pacific Jeans,2.83,DHL Express,Narayanganj,8,202,5,76.96,Fail,2.85,Sea,DAC-FRA,787.78
+T-Shirt,SKU81,72.82,9,774,4384.41,Unknown,48,6,8,5,Noman Group,4.07,DHL Express,Gazipur,28,698,1,19.79,Pending,2.55,Rail,DAC-FRA,276.78
+Pants,SKU82,17.03,13,336,2943.38,Unknown,42,19,72,1,Bextex Ltd,4.71,UPS,Dhaka,6,955,26,4.47,Pending,4.14,Road,CTG-PAR,589.98
+T-Shirt,SKU83,68.91,82,663,2411.75,Unknown,65,24,7,8,Noman Group,4.95,FedEx,Bogura,20,443,5,97.73,Fail,0.77,Road,CTG-SIN-RTM,682.97
+T-Shirt,SKU84,89.1,99,618,2048.29,Unknown,73,26,80,10,Bextex Ltd,8.38,Hapag-Lloyd,Narayanganj,24,589,22,33.81,Pass,4.84,Air,DAC-FRA,465.46
+Jeans,SKU85,76.96,83,25,8684.61,Female,15,18,66,2,Pacific Jeans,8.25,Hapag-Lloyd,Narayanganj,4,211,2,69.93,Fail,1.37,Road,DAC-FRA,842.69
+Pants,SKU86,20,18,223,1229.59,Unknown,32,14,22,6,Noman Group,1.45,FedEx,Dhaka,4,569,18,74.61,Pass,2.05,Rail,CTG-SIN-RTM,264.25
+T-Shirt,SKU87,80.41,24,79,5133.85,Male,5,7,55,10,Bextex Ltd,6.58,DHL Express,Narayanganj,27,523,17,28.7,Fail,3.69,Sea,DAC-FRA,879.36
+Jeans,SKU88,75.27,58,737,9444.74,Male,60,18,85,7,Bextex Ltd,3.8,UPS,Dhaka,21,953,11,68.18,Pending,0.72,Sea,CTG-SIN-RTM,103.92
+Jeans,SKU89,97.76,10,134,5924.68,Unknown,90,1,27,8,Noman Group,9.93,FedEx,Chattogram,23,370,11,46.6,Pending,1.91,Rail,DAC-FRA,517.5
+Pants,SKU90,13.88,56,320,9592.63,Non-binary,66,18,96,7,Noman Group,7.67,DHL Express,Bogura,8,585,8,85.68,Pass,1.22,Rail,DAC-FRA,990.08
+Jeans,SKU91,62.11,90,916,1935.21,Male,98,22,85,7,Noman Group,7.47,Maersk Line,Gazipur,5,207,28,39.77,Pending,0.63,Rail,DAC-FRA,996.78
+Jeans,SKU92,47.71,44,276,2100.13,Male,90,25,10,8,Noman Group,4.47,UPS,Dhaka,4,671,29,62.61,Pass,0.33,Rail,DAC-FRA,230.09
+T-Shirt,SKU93,69.29,88,114,4531.4,Unknown,63,17,66,1,Pacific Jeans,7.01,Maersk Line,Narayanganj,21,824,20,35.63,Fail,4.17,Air,CTG-SIN-RTM,823.52
+Jeans,SKU94,3.04,97,987,7888.36,Unknown,77,26,72,9,Noman Group,6.94,UPS,Gazipur,12,908,14,60.39,Pass,1.46,Rail,DAC-FRA,846.67
+T-Shirt,SKU95,77.9,65,672,7386.36,Unknown,15,14,26,9,Noman Group,8.63,Maersk Line,Dhaka,18,450,26,58.89,Pending,1.21,Air,CTG-SIN-RTM,778.86
+Jeans,SKU96,24.42,29,324,7698.42,Non-binary,67,2,32,3,Pacific Jeans,5.35,DHL Express,Dhaka,28,648,28,17.8,Pending,3.87,Road,CTG-SIN-RTM,188.74
+T-Shirt,SKU97,3.53,56,62,4370.92,Male,46,19,4,9,Bextex Ltd,7.9,Maersk Line,Dhaka,10,535,13,65.77,Fail,3.38,Road,CTG-SIN-RTM,540.13
+Pants,SKU98,19.75,43,913,8525.95,Female,53,1,27,7,Noman Group,1.41,Hapag-Lloyd,Narayanganj,28,581,9,5.6,Pending,2.91,Rail,CTG-SIN-RTM,882.2
+T-Shirt,SKU99,68.52,17,627,9185.19,Unknown,55,8,59,6,Noman Group,1.31,UPS,Narayanganj,29,921,2,38.07,Fail,0.35,Rail,DAC-FRA,210.74
